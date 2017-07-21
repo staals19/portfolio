@@ -1,0 +1,35 @@
+body {
+  background-color:#D4A6F3;
+  background-image: url("stars.gif");
+  background-repeat: repeat;
+  border-style: dotted;
+  border-color: #9714F0;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+
+h1 {color:#9F1DF7; font-family:arial; text-align:center; font-weight: bold;}
+h2 {color:#9F1DF7; font-family:arial; text-align:center; font-weight: bold;}
+h3 {color:#9F1DF7;font-family:arial; text-align:center; font-weight: bold;}
+
+p {
+  font-family: arial; margin: 40px; letter-spacing: -1px; text-shadow: .1px 1px purple;
+}
+
+a:link{
+  color: #7624F4;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #431788;
+}
+
+a:hover{
+  color: #3789BF;
+}
+
+div{
+  overflow: scroll;
+}
